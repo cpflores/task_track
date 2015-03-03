@@ -15,10 +15,10 @@ p {
 	font-family: 'Lato', sans-serif;
 } 
 
-.navbar, .jumbotron {
+.navbar {
 	border-radius:0 !important;
 }
 
-.navbar, .navbar-default {
-	background-color: transparent;
+#navbar, #jumbotron {
+	background-color: white;
 }
